@@ -30,7 +30,7 @@
  <img src="https://img.shields.io/badge/-lrau-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lrau22@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/louis-rau-59435824b/">
- <img src="https://img.shields.io/badge/-louisrau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-rau-59435824b/"/>
+ <img src="https://img.shields.io/badge/-Louis Rau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-rau-59435824b/"/>
 </p>
 
 
