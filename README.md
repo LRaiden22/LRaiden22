@@ -9,7 +9,9 @@
   I'm currently studying Business Informatics with a focus on Software Engineering 🎓 Studying at Duale Hochschule Baden-Würtemberg Mannheim 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 </p>
 
- <img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+<p align="center">
+<img align="center" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--WXI5d2Ru--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+</p>
 
 <h2 align="center">Some of my learned technologies... <img src="https://github.com/LRaiden22/LRaiden22/blob/main/images/laptop.gif" width="50"></h2>
 
