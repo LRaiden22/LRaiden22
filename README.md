@@ -10,6 +10,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=LRaiden22&show_icons=true" />
 </picture>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=lraiden22&theme=onedark)](https://github.com/lraiden22/github-profile-trophy)
 
 <!--
