@@ -12,15 +12,15 @@
 <h2 align="center">Some of my learned technologies... <img src="https://github.com/LRaiden22/LRaiden22/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
+ <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
+ <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3"/>
+ <img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte"/>
+ <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js"/>
+ <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+
 </p>
 
 
