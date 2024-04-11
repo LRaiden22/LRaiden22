@@ -10,6 +10,8 @@
   I'm currently studying Business Informatics with a focus on Software Engineering 🎓 Studying at Duale Hochschule Baden-Würtemberg Mannheim 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 </p>
 
+<br>
+
 <h2 align="center">💻 Some of my learned technologies...
 
 <p align="center">
@@ -29,6 +31,7 @@
 </p>
 </p>
 
+<br>
 
 <h2 align="center"> 📫 Contact me at </h2>
 <p align="center">
@@ -39,6 +42,7 @@
  <img src="https://img.shields.io/badge/-Louis Rau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-rau-59435824b/"/>
 </p>
 
+<br>
 
 <h2 align="center">
   My Github Stats
