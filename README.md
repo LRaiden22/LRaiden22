@@ -12,7 +12,7 @@
 <h2 align="center">Some of my learned technologies... <img src="https://github.com/LRaiden22/LRaiden22/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java"/>
+ <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=oracle"/>
  <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5"/>
  <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3"/>
  <img src="https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte"/>
