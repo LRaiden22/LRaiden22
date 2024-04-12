@@ -9,7 +9,6 @@
 
 <p align="center">
   I'm currently studying Business Informatics with a focus on Software Engineering 🎓 Studying at Duale Hochschule Baden-Würtemberg Mannheim 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
-</p>
 
 <hr>
 <br>
@@ -30,7 +29,6 @@
 
 <p align="center">
   ✨and many more....
-</p>
 </p>
 
 <hr>
