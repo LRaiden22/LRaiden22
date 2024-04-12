@@ -26,11 +26,12 @@
  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 ✨and some more....
+
+<br>
+
+<br>
+ 
 </h2>
-
-<br>
-
-<br>
 
 <h2 align="center"> 📫 Contact me at
  
@@ -46,12 +47,10 @@
   <img src="https://img.shields.io/badge/-Louis Rau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/louis-rau-59435824b/"/>
  </p>
   
- <br>
 
 <h2 align="center">
   My Github Stats
  
-<br>
 
 <br>
 
@@ -70,7 +69,6 @@
 
 </h2>
 
-<br>
 
 <h2 align="center">
   Programming Joke of the Day
