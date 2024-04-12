@@ -1,7 +1,9 @@
 </p align="center">
 <img src="https://github.com/LRaiden22/LRaiden22/blob/main/banner.png" />
 <br>
-<h1 align="center">✨ Welcome to my Profile! ✨</h1>
+<div style="text-align: center;">
+### ✨ Welcome to my Profile! ✨
+</div>
 
 
 <p align="center">
