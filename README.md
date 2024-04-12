@@ -1,6 +1,3 @@
-
-<p align="center">
- 
 </p align="center">
 <img src="https://github.com/LRaiden22/LRaiden22/blob/main/banner.png" />
 <br>
